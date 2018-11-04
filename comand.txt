@@ -1,0 +1,5 @@
+sudo lsof -i:8080
+kill PID
+
+
+cd ignore-tutorial
